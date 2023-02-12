@@ -43,9 +43,9 @@ function FeedbackSection() {
           className="py-10 text-2xl md:text-3xl"
           style={{ lineHeight: "3rem" }}
         >
-          “With the development of today's technology, metaverse is very useful
-          for today's work, or can be called web 3.0. by using metaverse you can
-          use it as anything”
+          “With the development of today&apos;s technology, metaverse is very
+          useful for today&apos;`s work, or can be called web 3.0. by using
+          metaverse you can use it as anything”
         </p>
       </motion.div>
       <motion.div

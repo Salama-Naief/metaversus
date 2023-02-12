@@ -23,7 +23,7 @@ function AboutSection() {
           Metaverse
         </span>{" "}
         is a new thing in the future, where you can enjoy the virtual world by
-        feeling like it's really real, you can feel what you feel in this
+        feeling like it &apos;s really real, you can feel what you feel in this
         metaverse world, because this is really the{" "}
         <span className="text-2xl lg:text-4xl text-white font-bold">
           madness of the metaverse
@@ -31,7 +31,7 @@ function AboutSection() {
         of today, using only{" "}
         <span className="text-2xl lg:text-4xl text-white font-bold">VR</span>
         devices you can easily explore the metaverse world you want, turn your
-        dreams into reality. Let's{" "}
+        dreams into reality. Let&apos;s{" "}
         <span className="text-2xl lg:text-4xl text-white font-bold">
           {" "}
           explore

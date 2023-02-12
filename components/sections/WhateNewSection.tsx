@@ -45,7 +45,7 @@ function WhateNewSection() {
           className="w-full  lg:w-[90%]"
         >
           <h1 className="text-4xl lg:text-6xl font-bold mb-5 mt-2">
-            What's new about Metaversus?
+            What&apos;s new about Metaversus?
           </h1>
           <div className="grid grid-cols-2">
             {newFeatures.map((item, index) => (
